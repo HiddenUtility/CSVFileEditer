@@ -1,0 +1,15 @@
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.csproj.AssemblyReference.cache
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.AssemblyInfoInputs.cache
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.AssemblyInfo.cs
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.csproj.CoreCompileInputs.cache
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\bin\Debug\net7.0\CsvFileEditer.exe
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\bin\Debug\net7.0\CsvFileEditer.deps.json
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\bin\Debug\net7.0\CsvFileEditer.runtimeconfig.json
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\bin\Debug\net7.0\CsvFileEditer.dll
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\bin\Debug\net7.0\CsvFileEditer.pdb
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.dll
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\refint\CsvFileEditer.dll
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.pdb
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\CsvFileEditer.genruntimeconfig.cache
+C:\Users\iwill\OneDrive\物置\04_プログラミング\04_C#\CsvFileEditer\obj\Debug\net7.0\ref\CsvFileEditer.dll
