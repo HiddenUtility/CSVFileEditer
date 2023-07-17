@@ -3,18 +3,18 @@ using System.Net;
 
 namespace FtpController
 {
-    public class FtpSender
+    public class FtpConnecter
     {
         public string IP { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
 
-        public void FtpSender()
+        public void FtpConnecter()
         {
 
         }
 
-        public void setToConnect(string ip, string username, string password)
+        public bool isConnecte()
         {
             try
             {
@@ -39,6 +39,3 @@ namespace FtpController
 
     }
 }
-
-
-

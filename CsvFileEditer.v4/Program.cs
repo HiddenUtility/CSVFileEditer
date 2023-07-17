@@ -5,7 +5,7 @@ using Reader;
 using Writer;
 
 
-//csc Program.cs
+//csc Program.cs /reference:Reader.dll /reference:Writer.dll 
 
 namespace CSVEditer
 {

@@ -1,7 +1,7 @@
 
 
 using System;
-using FtpController.FtpSender;
+using FtpController.FtpConnectionInfo;
 
 
 //csc Program.cs
@@ -12,9 +12,8 @@ namespace Test
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
-            FtpSender sender = new FtpSender();
+            FtpConnectionInfo info = new FtpConnectionInfo("192.168.10.10", "test", "password");
             
         }
     }
