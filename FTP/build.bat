@@ -2,8 +2,8 @@
 
 PATH="%WINDIR%\Microsoft.NET\Framework\v4.0.30319";%PATH%
 
-csc -target:library FtpSender.cs 
-csc Test.cs /reference:FtpSender.dll
+csc -target:library FtpController.cs 
+csc Test.cs /reference:FtpController.dll
 
 rem ちなみに、/target:winexe を /target:exe にすると、コンソールアプリケーションになります。
 
