@@ -1,0 +1,9 @@
+F:\Programming\02_cs\002_library\C-sharp\FTP\obj\Debug\net48\FTP.csproj.AssemblyReference.cache
+F:\Programming\02_cs\002_library\C-sharp\FTP\obj\Debug\net48\FTP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\02_cs\002_library\C-sharp\FTP\obj\Debug\net48\FTP.AssemblyInfoInputs.cache
+F:\Programming\02_cs\002_library\C-sharp\FTP\obj\Debug\net48\FTP.AssemblyInfo.cs
+F:\Programming\02_cs\002_library\C-sharp\FTP\obj\Debug\net48\FTP.csproj.CoreCompileInputs.cache
+F:\Programming\02_cs\002_library\C-sharp\FTP\bin\Debug\net48\FTP.dll
+F:\Programming\02_cs\002_library\C-sharp\FTP\bin\Debug\net48\FTP.pdb
+F:\Programming\02_cs\002_library\C-sharp\FTP\obj\Debug\net48\FTP.dll
+F:\Programming\02_cs\002_library\C-sharp\FTP\obj\Debug\net48\FTP.pdb
