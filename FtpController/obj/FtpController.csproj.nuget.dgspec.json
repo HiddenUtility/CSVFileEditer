@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Programming\\02_cs\\002_library\\C-sharp\\FTP\\FTP.csproj": {}
+    "F:\\Programming\\02_cs\\002_library\\C-sharp\\FtpController\\FtpController.csproj": {}
   },
   "projects": {
-    "F:\\Programming\\02_cs\\002_library\\C-sharp\\FTP\\FTP.csproj": {
+    "F:\\Programming\\02_cs\\002_library\\C-sharp\\FtpController\\FtpController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\02_cs\\002_library\\C-sharp\\FTP\\FTP.csproj",
-        "projectName": "FTP",
-        "projectPath": "F:\\Programming\\02_cs\\002_library\\C-sharp\\FTP\\FTP.csproj",
+        "projectUniqueName": "F:\\Programming\\02_cs\\002_library\\C-sharp\\FtpController\\FtpController.csproj",
+        "projectName": "FtpController",
+        "projectPath": "F:\\Programming\\02_cs\\002_library\\C-sharp\\FtpController\\FtpController.csproj",
         "packagesPath": "C:\\Users\\nanik\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\02_cs\\002_library\\C-sharp\\FTP\\obj\\",
+        "outputPath": "F:\\Programming\\02_cs\\002_library\\C-sharp\\FtpController\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nanik\\AppData\\Roaming\\NuGet\\NuGet.Config",

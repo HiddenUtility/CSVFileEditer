@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FTP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FtpController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("FTP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FTP")]
+[assembly: System.Reflection.AssemblyProductAttribute("FtpController")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FtpController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment クラスによって生成されました。

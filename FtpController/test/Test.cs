@@ -13,11 +13,12 @@ namespace Test
         public static void Main(string[] args)
         {
             string ip = "192.168.10.10";
+            string port = "21";
             string userName = "username";
             string password = "password";
 
-            FtpController.FtpConnectedInformation info = new FtpController.FtpConnectedInformation(ip, userName, password);
-            FtpController.FtpController controller = new FtpController.FtpController(ip, userName, password);
+            FtpController.ConnectingInformation info = new FtpController.ConnectingInformation(ip, port,userName, password);
+            
 
             
         }
