@@ -1,9 +1,0 @@
-F:\Programming\02_cs\002_library\C-sharp\FtpController\obj\Debug\net48\FtpController.csproj.AssemblyReference.cache
-F:\Programming\02_cs\002_library\C-sharp\FtpController\obj\Debug\net48\FtpController.GeneratedMSBuildEditorConfig.editorconfig
-F:\Programming\02_cs\002_library\C-sharp\FtpController\obj\Debug\net48\FtpController.AssemblyInfoInputs.cache
-F:\Programming\02_cs\002_library\C-sharp\FtpController\obj\Debug\net48\FtpController.AssemblyInfo.cs
-F:\Programming\02_cs\002_library\C-sharp\FtpController\obj\Debug\net48\FtpController.csproj.CoreCompileInputs.cache
-F:\Programming\02_cs\002_library\C-sharp\FtpController\bin\Debug\net48\FtpController.dll
-F:\Programming\02_cs\002_library\C-sharp\FtpController\bin\Debug\net48\FtpController.pdb
-F:\Programming\02_cs\002_library\C-sharp\FtpController\obj\Debug\net48\FtpController.dll
-F:\Programming\02_cs\002_library\C-sharp\FtpController\obj\Debug\net48\FtpController.pdb
