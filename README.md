@@ -7,19 +7,7 @@ dotnet restore
 // dotnet add reference {参照するpath}で指定されたpathにあるProjectの参照を追加
 ```
 
-# 99. Test環境
-コマンド
-```
-mkdir D:\01_Muscle_Data\temp3\analog\TNGA7block\kspf0001
-mkdir D:\01_Muscle_Data\temp3\analog\TNGA7crank\kspf0002
-mkdir D:\01_Muscle_Data\temp3\analog\TNGA8crank\kspf0003
-mkdir D:\01_Muscle_Data\temp3\judge\TNGA7block\kspf0004
-mkdir D:\01_Muscle_Data\temp3\judge\TNGA7crank\kspf0005
-mkdir D:\01_Muscle_Data\temp3\judge\TNGA8crank\kspf0006
-mkdir D:\01_Muscle_Data\temp3\settings\TNGA7block\kspf0007
-mkdir D:\01_Muscle_Data\temp3\settings\TNGA7crank\kspf0008
-mkdir D:\01_Muscle_Data\temp3\settings\TNGA8crank\kspf0009
-```
+
 
 
 # 複数のプロジェクトを作る
