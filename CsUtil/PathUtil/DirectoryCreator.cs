@@ -1,21 +1,30 @@
-using System;
-using System.IO;
-
 namespace CsUtil.PathUtil
 {
+    /// <summary>
+    /// ディレクトリを作る
+    /// </summary>
     public class DirectoryCreator
     {
-        public static void MakeDirectory(string dirpath)
+        /// <summary>
+        ////ディレクトリを全階層作る。あれば作らない
+        /// </summary>
+        /// <param name="dirpath"></param>
+        public static void MakeDirecotry(string dirpath)
         {
-            string pearentPath = Path.GetDirectoryName(dirpath);
-            if (!Directory.Exists(pearentPath))
-            {
-                MakeDirectory(pearentPath);
-            }
             if (!Directory.Exists(dirpath))
             {
-                Directory.CreateDirectory(dirpath);
+                try
+                {
+                    
+                    Directory.CreateDirectory(dirpath);
+                }
+                catch (Exception)
+                {
+                    
+                    throw new WinPathError($"{dirpath}はディレクトリパスとして不正です。");
+                }
             }
         }
     }
+
 }
